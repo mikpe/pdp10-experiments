@@ -7,7 +7,9 @@ specifically the KL10B, primarily but not exclusively in exec mode.
 Snippets
 --------
 
-TBD
+console/
+	A standalone exec mode program to initialize the DTE20
+	and then print an ASCII string to the console.
 
 Dependencies
 ------------
