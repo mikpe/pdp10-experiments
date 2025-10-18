@@ -11,6 +11,10 @@ console/
 	A standalone exec mode program to initialize the DTE20
 	and then print an ASCII string to the console.
 
+timer/
+	A standalone exec mode program to set up interval counter
+	interrupts and use those to trigger output to the console.
+
 Dependencies
 ------------
 
