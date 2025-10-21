@@ -11,6 +11,10 @@ console/
 	A standalone exec mode program to initialize the DTE20
 	and then print an ASCII string to the console.
 
+cpuid/
+	A standalone exec mode program to detect the PDP-10 CPU
+	generation, and if it's a KL10B print a string saying so.
+
 timer/
 	A standalone exec mode program to set up interval counter
 	interrupts and use those to trigger output to the console.
