@@ -15,6 +15,10 @@ cpuid/
 	A standalone exec mode program to detect the PDP-10 CPU
 	generation, and if it's a KL10B print a string saying so.
 
+date/
+	A standalone exec mode program to retrieve date/time from
+	the DTE20 and print it to the console.
+
 timer/
 	A standalone exec mode program to set up interval counter
 	interrupts and use those to trigger output to the console.
